@@ -1,3 +1,4 @@
+descriptorVersion: "v4"
 image: entando/entando-strapi:7.0.6
 dbms: postgresql
 ingressPath: "/entando-strapi"
