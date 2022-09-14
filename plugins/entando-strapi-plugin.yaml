@@ -1,8 +1,6 @@
-descriptorVersion: "v4"
-image: entando/entando-strapi:7.0.6
+image: entando/entando-strapi:7.0.10
 dbms: postgresql
 ingressPath: "/entando-strapi"
-deploymentBaseName: "entando-strapi"
 healthCheckPath: "/api/health"
 roles:
   - "admin"
